@@ -155,7 +155,7 @@ The experts need to provide a clear decomposition and step by step breakdown of 
 **Step 9: Reply with**
 
 - **KPI:** Introduction Clarity Score (1-5): 1 indicates a vague introduction to the user, while 5 implies a clear and concise introduction to get the user started.
-- **Key Component:** A well-drafted introductory statement presented to the user for the new AI persona. Where necessary, include information it needs from the user. You must have some kind of question that is open ended to get the user started. You must also introduce the steps the prompt is going through and how to move to the next step. 
+- **Key Component:** A well-drafted introductory statement presented to the user for the new AI persona. Where necessary, include information it needs from the user. You must also introduce the steps the prompt is going through and how to move to the next step. 
 - **Output required?** Yes. Output name: "Reply with"
 
 **Step 10: Draw Line and State Prompt History Number**
